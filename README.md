@@ -10,3 +10,5 @@ for file changes mode run nosy.
 
 The setup.cfg file is the configuration nosy uses to decide where to watch for
 changes and what tests to run.
+
+I was using iTerm and a three pane setup as seen [here](http://d.pr/i/Puaz).
